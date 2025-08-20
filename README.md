@@ -5,6 +5,7 @@ This repository houses a comprehensive Power BI project focused on sales perform
 
 ## Key Features
 **Data Integration & Preparation**: Loaded sales data from a CSV/Excel File , cleansed and structured it using Power Query .
+
 **Advanced Calculations with DAX**: Created custom measures for Revenue, Growth Rate, Month-over-Month comparisons, and other business-critical KPIs.
 **Interactive and Intuitive Visuals**: Developed a user-friendly interface with slicers, charts, and drill-through features to explore between product lines, time periods, and geographic segments.
 **Performance Optimization**: Designed efficient data model structures, optimized DAX queries, and improved rendering speed for large datasets.
